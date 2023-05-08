@@ -1,0 +1,114 @@
+
+
+body{
+    margin:0;
+    padding:0;
+    background-image: url(https://th.bing.com/th/id/R.da7ca3a430654a11cf7ea4fe3474ac50?rik=g8UOVBSQ0a0OAQ&pid=ImgRaw&r=0);
+   
+
+}
+
+head{
+    
+    width: 100%;
+    height: 1000px;
+}
+.datos{
+    background-image: url(hhttps://th.bing.com/th/id/R.da7ca3a430654a11cf7ea4fe3474ac50?rik=g8UOVBSQ0a0OAQ&pid=ImgRaw&r=0);
+    width: 100%;
+    height: 1000px;
+    
+}
+.img {
+    float: right;
+    margin-left: 10px;
+}
+
+.img img {
+    max-width: 150px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 170px;
+}
+.datos .contenido{
+    background-image:url(https://fondosmil.com/fondo/28655.jpg) ;
+    width: 100%;
+    height: 5000px;
+    transform: skewY(-3deg);
+    position: absolute;
+    left: 25%;
+    
+    
+}  
+.datos .contenido{
+    width: 30%;
+    height: 15%;
+    position: absolute;
+    left: 25%;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+.datos .contenido .p-1{
+    color: chartreuse;
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.datos .contenido .p-2{
+    color: chartreuse;
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.datos .contenido .p-3{
+    color: aqua;
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.datos .contenido .p-4{
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 24px;
+
+}
+.datos .contenido .p-5{
+    color: black;
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    width: 100%;
+    font-size:20px;
+    margin: 10px 50px 0;
+    text-align: justify
+    
+
+}
+.datos .contenido .p-6{
+    color: black;
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    width: 100%;
+    font-size:20px;
+    margin: 10px 50px 0;
+    text-align: justify
+    list-style-type: arrow;
+
+}
+.datos .contenido .p-7{
+    color: rgb(0, 0, 0);
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size:30px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+
+}
